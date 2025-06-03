@@ -28,9 +28,9 @@ const MasterRoofers: React.FC = () => {
         <main className="tl_article">
           {/* Article Header */}
           <header className="tl_article_header" dir="auto">
-            <h1>Tamussino Eisenkonstruktionen-GmbH</h1>
+            <h1>Master Roofers</h1>
             <address>
-              <a rel="author">June 3, 2025</a>
+              <a rel="author">May 27, 2025</a>
               {/* -- */}
               <time dateTime="2025-05-27T18:23:46+0000">{formattedDate}</time>
             </address>
@@ -38,8 +38,8 @@ const MasterRoofers: React.FC = () => {
 
           {/* Main Article Content */}
           <article id="_tl_editor" className="tl_article_content">
-            <h1>Tamussino Eisenkonstruktionen-GmbH<br /></h1>
-            <address>June 3, 2025<br /></address>
+            <h1>Master Roofers<br /></h1>
+            <address>May 27, 2025<br /></address>
             <blockquote>
               <strong>You have a document awaiting your review</strong>
             </blockquote>
@@ -168,11 +168,11 @@ const MasterRoofers: React.FC = () => {
                 <div className="tl_copyright_field">
                   Please submit your DMCA takedown request to{" "}
                   <a
-                    href=""
+                    href="mailto:dmca@telegram.org?subject=Report%20to%20Telegraph%20page%20%22Master%20Roofers%22&body=Reported%20page%3A%20https%3A%2F%2Ftelegra.ph%2FMaster-Roofers-05-27%0A%0A%0A"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    
+                    dmca@telegram.org
                   </a>
                 </div>
               </section>

@@ -22,7 +22,9 @@ const DocumentNotification: React.FC<DocumentNotificationProps> = ({
     maxWidth: "450px",
     background: "#fafbfc"
   }}>
-    <h2 style={{ marginTop: 0 }}>{company}</h2>
+    <h2 style={{ marginTop: 0, fontWeight: "bold" }}>
+      {company}
+    </h2>
     <div style={{ color: "#767676", marginBottom: "16px" }}>{date}</div>
     <h3>{documentTitle}</h3>
     <a 

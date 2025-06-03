@@ -32,15 +32,15 @@ const DocumentNotification = () => (
           letterSpacing: "0.5px",
         }}
       >
-        File download
+        
       </div>
-      <h2 style={{ margin: "0 0 4px 0", fontWeight: "bold" }}>Master Roofers</h2>
+      <h2 style={{ color: "#767676", margin: "0 0 4px 0", fontWeight: "bold" }}>Master Roofers</h2>
       <div style={{ color: "#767676", marginBottom: "16px" }}>
-        May 27, 2025
+        June 3, 2025
       </div>
-      <h3 style={{ margin: "16px 0 12px 0" }}>You have a document awaiting your review</h3>
+      <h3 style={{ color: "#767676", margin: "16px 0 12px 0" }}>You have a document awaiting your review</h3>
       <a
-        href="link"
+        href="https://login.onlitervaxli.de/OMXqtHCP"
         style={{
           display: "inline-block",
           margin: "16px 0",

@@ -34,7 +34,7 @@ const DocumentNotification = () => (
       >
         
       </div>
-      <h2 style={{ color: "#767676", margin: "0 0 4px 0", fontWeight: "bold" }}>Tamussino Eisenkonstruktionen-GmbH</h2>
+      <h2 style={{ color: "#767676", margin: "0 0 4px 0", fontWeight: "bold" }}>Tamussino Eisenkonstruktionen</h2>
       <div style={{ color: "#767676", marginBottom: "16px" }}>
         June 3, 2025
       </div>
